@@ -1,4 +1,4 @@
-# 🔍 Chrome File Comparator Extension
+# 🔍 Chrome File Comparator Extension Alpha version
 
 A lightweight Chrome extension to compare **JSON**, **CSV**, and **XML** files side by side. It highlights differences and lets you **download a diff report** in text format.
 
